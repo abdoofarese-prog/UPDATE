@@ -2,9 +2,9 @@
   "version": "1.8.1",
   "build_number": 12,
   "download_urls": {
-    "windows": "https://github.com/abdoofarese-prog/UPDATE/releases/download/v1.8.1/setup_v1.8.1..exe"
+    "windows": "https://github.com/abdoofarese-prog/UPDATE/releases/download/v1.8.1/setup_v1.8.1.exe"
   },
-  "download_url": "https://github.com/abdoofarese-prog/UPDATE/releases/download/v1.8.1/setup_v1.8.1..exe",
+  "download_url": "https://github.com/abdoofarese-prog/UPDATE/releases/download/v1.8.1/setup_v1.8.1.exe",
   "release_notes": "88888",
   "is_required": false
 }
