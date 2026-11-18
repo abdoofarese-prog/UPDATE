@@ -1,10 +1,10 @@
 {
-  "version": "1.8.1",
-  "build_number": 13,
+  "version": "1.7.1",
+  "build_number": 14,
   "download_urls": {
-    "windows": "https://github.com/abdoofarese-prog/UPDATE/releases/download/v1.8.1/setup_v1.8.1.exe"
+    "android": "https://github.com/abdoofarese-prog/UPDATE/releases/download/v1.7.1/app_v1.7.1.apk"
   },
-  "download_url": "https://github.com/abdoofarese-prog/UPDATE/releases/download/v1.8.1/setup_v1.8.1.exe",
-  "release_notes": "555555",
+  "download_url": "https://github.com/abdoofarese-prog/UPDATE/releases/download/v1.7.1/app_v1.7.1.apk",
+  "release_notes": "444444",
   "is_required": false
 }
